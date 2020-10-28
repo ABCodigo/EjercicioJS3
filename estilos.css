@@ -1,0 +1,21 @@
+label{
+display: block;
+float: left;
+width: 60px;
+}
+
+.formulario{
+margin-top: 20px;
+padding: 10px;
+width: 300px;
+background-color: rgba(209, 206, 206, 0.884);
+}
+
+h3{
+    text-align: center;
+}
+
+.boton {
+    margin-left: 60px;
+    margin-top: 10px;
+}
